@@ -21,3 +21,4 @@
   - 全体ゼミで学んだ画像圧縮の内容を実装したバージョン
 
 ※その他の演習内容の詳細はNotionにまとめています。
+https://giddy-pipe-09e.notion.site/1-5894485fc5a24fa39f2a1a04d6b70539?pvs=4
